@@ -14,25 +14,7 @@ Le ercitazioni da svolgere sono descrite all'interno di notebook jupyter.
 Per scaricare i dati fare riferimento al pacchetto nel repository [*get-mcf-data*](https://github.com/s-germani/get-mcf-data)
 Esempi su come svolgere le esrcitazioni verranno resi disponibili nell'area [*soluzioni*](https://github.com/s-germani/metodi-computazionali-fisica-2024/tree/main/soluzioni) dopo il completamento della relativa attività in laboratorio.
 
-
-Elenco Lezioni
-==============
-* Introduzione
-* *Preparazione Ambiente di Lavoro e Basi di Linux*
-* Le basi di Python
-* Principali moduli Python in ambito scinetifico (Numpy, Scipy, Matplotlib,...)
-* *Copie in Python*
-* Rappresentazione Numerica ed Errori
-* *Git e GitHub*
-* Funzioni, Moduli e Classi
-* Integrazione e Derivazione
-* *argparse*
-* Equazioni - Minimizzazione
-* Equazioni Differenziali
-* Trasformate di Fourier
-* Metodi Monte Carlo
-* Integrazione C e Python
-
+[Elenco Files Soluzioni](soluzioni/ELENCO_SOLUZIONI.md)
 
 
 
@@ -80,20 +62,4 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 
 =========================================
 
-
-
-Esempi di Svolgimento delle Esercitazioni
-=========================================
-
-[Elenco Files Soluzioni](soluzioni/ELENCO_SOLUZIONI.md)
-Link Cartelle Soluzioni:
-
-
-* [E05 - Funzioni, Moduli e Classi](soluzioni/E05)
-* [E06 - Integrali e Derivate](soluzioni/E06)
-* [E07 - Equazioni e Minimizzazione](soluzioni/E07)
-* [E08 - Equazioni Differenziali](soluzioni/E08)
-* [E09 - Trasformate di Fourier](soluzioni/E09)
-* [E10 - Metodi Monte Carlo](soluzioni/E10)
-* [E11 - Integrazione C e Python](soluzioni/E11)
 
