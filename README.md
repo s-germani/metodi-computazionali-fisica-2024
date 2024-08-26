@@ -46,42 +46,40 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   
 * [L03  - Moduli Python in ambito scientifico](notebooks/lezioni/L03_NumpyScipyMatplotlib.ipynb)
   * [L03a - Copie in Python](notebooks/lezioni/L03a_PythonCopy.ipynb)
-  * [E03 - Moduli Python in ambito scientifico](soluzioni/E03)
+  * [E03 - Moduli Python in ambito scientifico ](notebooks/esercitazioni/E03_NumpyScipyMatplotlib.ipynb)
 
 * [L04  - Rappresentazione Numerica ed Errori](notebooks/lezioni/L04_Rappresentazioni_ed_Errori_Numerici.ipynb)
-* [L04a - Git e GitHub](notebooks/lezioni/L04a_Github.ipynb)
+  * [E04 - Git e GitHub](notebooks/esercitazioni/E04_Github.ipynb)
 
-* [L05  - Funzioni, Moduli e Classi / pyROOT???](notebooks/lezioni/L05_Funzioni_Moduli_e_Classi.ipynb)
+* [L05  - Funzioni, Moduli e Classi](notebooks/lezioni/L05_Funzioni_Moduli_e_Classi.ipynb)
+  * [E05 - Funzioni, Moduli e Classi](notebooks/esercitazioni/E05_Funzioni_Moduli_e_Classi.ipynb)
 
 * [L06  - Equazioni e Minimizzazione](notebooks/lezioni/L06_Equazioni_Minimizzazione.ipynb)
+  * [E06 - Integrazione e Derivazione](notebooks/esercitazioni/E06_Integrazione_e_Derivazione.ipynb)
 
 * [L07  - Integrazione e Derivazione](notebooks/lezioni/L07_Integrazione_e_Derivazione.ipynb)
-* [L07a - argparse](notebooks/lezioni/L07a_argparse.ipynb)
-
+  * [L07a - argparse](notebooks/lezioni/L07a_argparse.ipynb)
+  * [E07 - Equazioni e Minimizzazione](notebooks/esercitazioni/E07_Equazioni_Minimizzazione.ipynb)
 
 * [L08  - Equazioni Differenziali](notebooks/lezioni/L08_EquazioniDifferenziali.ipynb)
+  * [E08 - Equazioni Differenziali](notebooks/esercitazioni/E08_EquazioniDifferenziali.ipynb)
 
 * [L09  - Trasformate di Fourier](notebooks/lezioni/L09_TrasformateFourier.ipynb)
+  * [E09 - Trasformate di Fourier](notebooks/esercitazioni/E09_TrasformateFourier.ipynb)
 
 * [L10  - Metodi Monte Carlo](notebooks/lezioni/L10_MonteCarlo.ipynb)
+  * [E10 - Metodi Monte Carlo](notebooks/esercitazioni/E10_MonteCarlo.ipynb)
 
 * [L11  - Integrazione C e Python](notebooks/lezioni/L11_CePython.ipynb)
+  * [L11a - Note Conclusive - Descrizione Esame](notebooks/lezioni/L11a_NoteConclusive_DescrizioneEsame.ipynb)
+  * [E11 - Integrazione C e Python](notebooks/esercitazioni/E11_C-Python.ipynb)
 
-* [L11a - Note Conclusive - Descrizione Esame](notebooks/lezioni/L11a_NoteConclusive_DescrizioneEsame.ipynb)
 
 
 
 
 =========================================
 
-* [E03 - Moduli Python in ambito scientifico ](notebooks/esercitazioni/E03_NumpyScipyMatplotlib.ipynb)
-* [E05 - Funzioni, Moduli e Classi](notebooks/esercitazioni/E05_Funzioni_Moduli_e_Classi.ipynb)
-* [E06 - Integrazione e Derivazione](notebooks/esercitazioni/E06_Integrazione_e_Derivazione.ipynb)
-* [E07 - Equazioni e Minimizzazione](notebooks/esercitazioni/E07_Equazioni_Minimizzazione.ipynb)
-* [E08 - Equazioni Differenziali](notebooks/esercitazioni/E08_EquazioniDifferenziali.ipynb)
-* [E09 - Trasformate di Fourier](notebooks/esercitazioni/E09_TrasformateFourier.ipynb)
-* [E10 - Metodi Monte Carlo](notebooks/esercitazioni/E10_MonteCarlo.ipynb)
-* [E11 - Integrazione C e Python](notebooks/esercitazioni/E11_C-Python.ipynb)
 
 
 Esempi di Svolgimento delle Esercitazioni
