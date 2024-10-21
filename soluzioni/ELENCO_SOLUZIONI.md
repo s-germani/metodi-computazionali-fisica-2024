@@ -7,5 +7,12 @@
   * `myage.py`     : calcolo età
   * `lists.py`     : liste e dizionari
 
+* Cartella [E03](E03) (Esercitazione 3 - Moduli Python ad uso scientifico)
+  * `kepler.py`: curva di luce transito esopianeta da missione Keplere/K2
+  * `exoplanets.py`: grafici sugli esopianeti
+  * `kepler_fold.py`: grafico curva di luce transito esopianeta riferita al periodo (folding)
+  
+
+
 
 
