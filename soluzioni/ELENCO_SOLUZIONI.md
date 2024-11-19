@@ -25,4 +25,6 @@
   * `signal_times.py`           : script python per il calcolo delle derivate dei segnali dell'oscilloscopio
 
 
+* Cartella [E07](E07) ( Esercitazione  - Equazioni Minimizzazione ): 
+  * `jpsimass_fit.py` : script python per il fit della massa invariante della J/psi
 
