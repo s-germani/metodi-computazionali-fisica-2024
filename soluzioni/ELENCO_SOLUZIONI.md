@@ -28,3 +28,6 @@
 * Cartella [E07](E07) ( Esercitazione  - Equazioni Minimizzazione ): 
   * `jpsimass_fit.py` : script python per il fit della massa invariante della J/psi
 
+* Cartella [E08](E08) ( Esercitazione  - Equazioni Differenziali ): 
+  * `filtro_rc.py` : script python per la soluzione del circuito RC passa basso
+  * `pendulum.py`  : script python per la soluzione dell'equazione differenziale del pendolo semplice
