@@ -18,12 +18,10 @@
   * `reco.py`                  : file per la definzione del modulo reco con le classi Hit (Esercizio 2 - Classi)
   * `events_reconstruction.py` : script python per l'analisi degli Hit attraverso il modulo reco (Esercizio 2 - Classi)
 
-
 * Cartella [E06](E06) ( Esercitazione 6 - Integrali e Derivate ):
   * `calcolo_distanza.py`       : script python per leggere il file csv con i dati  e calcolare l'integrale della distanza percorsa dalla velocià
   * `oscillatore_anarmonico.py` : script python per calcolare il periodo dell'oscillatore anarmonico
   * `signal_times.py`           : script python per il calcolo delle derivate dei segnali dell'oscilloscopio
-
 
 * Cartella [E07](E07) ( Esercitazione  - Equazioni Minimizzazione ): 
   * `jpsimass_fit.py` : script python per il fit della massa invariante della J/psi
@@ -31,3 +29,9 @@
 * Cartella [E08](E08) ( Esercitazione  - Equazioni Differenziali ): 
   * `filtro_rc.py` : script python per la soluzione del circuito RC passa basso
   * `pendulum.py`  : script python per la soluzione dell'equazione differenziale del pendolo semplice
+
+* Cartella   [E09](E09) ( Esercitazione  - Trasformate di Fourier ):
+  * `noise_fft.py`       :  script python per l'analisi di Fourier dei vari tipi di rumore
+  * `copernicus.py`      :  script python per l'analisi di Fourier dei dati sugli inquinanti in Umbria
+  * `lightcurves_fft.py` :  script python per l'analisi di Fourier delle curve di luce gamma dei blazar
+  
