@@ -34,4 +34,11 @@
   * `noise_fft.py`       :  script python per l'analisi di Fourier dei vari tipi di rumore
   * `copernicus.py`      :  script python per l'analisi di Fourier dei dati sugli inquinanti in Umbria
   * `lightcurves_fft.py` :  script python per l'analisi di Fourier delle curve di luce gamma dei blazar
-  
+
+* Cartella   [E10](E10) ( Esercitazione  - Metodi Monte Carlo     ):
+  * `random_walk.py`   : modulo python per la generazione del random walk
+  * `diffusione_2d.py` : script python per i grafici sulla diffusione 2D 
+  * `prob_phi.py`      : script python per testare la probabilità con il metodo della cumulativa
+  * `mymwpc.py`        : modulo python con la definizione della classe myMWPC (simulazione MWPC)
+  * `mymwpcev.py`      : modulo python con la definizione della classe myMWPCev (eventi MWPC)
+  * `run_mymwpc.py`    : script python per eseguire la simulazione della MWPC
