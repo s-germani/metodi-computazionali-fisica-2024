@@ -42,3 +42,14 @@
   * `mymwpc.py`        : modulo python con la definizione della classe myMWPC (simulazione MWPC)
   * `mymwpcev.py`      : modulo python con la definizione della classe myMWPCev (eventi MWPC)
   * `run_mymwpc.py`    : script python per eseguire la simulazione della MWPC
+
+* Cartella   [E11](E11) ( Esercitazione  - C e Python             ):
+  * `compile.sh`       : script shell con comandi per la compilazione delle librerie condivise
+  * `serie.c`          : file C con definizione della serie di Fibonaggi (da compilare per generare il file libserie.so)
+  * `serie.py`         : modulo python che utilizza la libreria condivisa serie
+  * `serie_py.py`      : modulo python che calcola la successione di Fibonacci solo tramite codice python (per confronto prestazioni) 
+  * `run_serie.py`     : script python per eseguire i moduli sulla successione di Fibonacci
+  * `mycamera.py`      : modulo python che utilizza la libreria condivisa mycamera
+  * `run_mycamera.py`  : script python che utilizza il modulo mycamera per acquisire l'immagine della fotocamera
+  * `mycamerac.py`     : modulo python che utilizza la libreria condivisa mycamera definendo la classe myCamera 
+  * `run_mycamerac.py` : script python che utilizza il modulo mycamerac per acquisire l'immagine della fotocamera
